@@ -29,13 +29,6 @@ npm run preview
 ```
 
 
-### Deploy to GitHub Pages
-
-```bash
-npm run build
-# Upload the 'dist' folder to your GitHub Pages branch
-```
-
 ## 🛠️ Tech Stack
 
 - **React 18** - UI framework
